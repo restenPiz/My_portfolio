@@ -181,9 +181,14 @@
                                 <li></li>
                             </ul>
                         </div> <!-- section title -->
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.</p>
+                        <p style="text-align: justify">Versatile Full Stack Developer with 4+ years of experience building end-to-end solutions across web and
+                        mobile platforms. Specialized in JavaScript/TypeScript ecosystems (React, Next.js, Node.js) and PHP (Laravel),
+                        with expertise in Flutter for cross-platform mobile development. Successfully delivered 10+ production
+                        applications from concept to deployment, including payment-integrated systems and health platforms
+                        serving thousands of users. Strong background in API architecture, database design, and system
+                        administration, with a proven ability to translate complex requirements into scalable, user-centric solutions.</p>
 
-                        <div class="about_skills pt-15">
+                        {{-- <div class="about_skills pt-15">
                             <div class="skill_item mt-20">
                                 <div class="skill_header">
                                     <h6 class="skill_title">UI/UX Design</h6>
@@ -236,7 +241,7 @@
                                     </div>
                                 </div>
                             </div> <!-- skill item -->
-                        </div> <!-- about skill -->
+                        </div> <!-- about skill --> --}}
                     </div> <!-- about content -->
                 </div>
             </div> <!-- row -->
@@ -269,29 +274,7 @@
                             <i class="lni lni-vector"></i>
                         </div>
                         <div class="service_content">
-                            <h4 class="service_title"><a href="#">Graphic Design</a></h4>
-                            <p>Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
-                        </div>
-                    </div> <!-- single service -->
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.5s">
-                        <div class="service_icon">
-                            <i class="lni lni-layout"></i>
-                        </div>
-                        <div class="service_content">
-                            <h4 class="service_title"><a href="#">Web Design</a></h4>
-                            <p>Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
-                        </div>
-                    </div> <!-- single service -->
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.8s">
-                        <div class="service_icon">
-                            <i class="lni lni-ux"></i>
-                        </div>
-                        <div class="service_content">
-                            <h4 class="service_title"><a href="#">UI/UX Design</a></h4>
+                            <h4 class="service_title"><a href="#">Data Analysis</a></h4>
                             <p>Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
                         </div>
                     </div> <!-- single service -->
@@ -302,7 +285,7 @@
                             <i class="lni lni-code"></i>
                         </div>
                         <div class="service_content">
-                            <h4 class="service_title"><a href="#">Frontend Development</a></h4>
+                            <h4 class="service_title"><a href="#">Software Development</a></h4>
                             <p>Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
                         </div>
                     </div> <!-- single service -->
@@ -310,21 +293,10 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.5s">
                         <div class="service_icon">
-                            <i class="lni lni-briefcase"></i>
+                            <i class="lni lni-layout"></i>
                         </div>
                         <div class="service_content">
-                            <h4 class="service_title"><a href="#">Business Analysis</a></h4>
-                            <p>Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
-                        </div>
-                    </div> <!-- single service -->
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.8s">
-                        <div class="service_icon">
-                            <i class="lni lni-bullhorn"></i>
-                        </div>
-                        <div class="service_content">
-                            <h4 class="service_title"><a href="#">Digital Marketing</a></h4>
+                            <h4 class="service_title"><a href="#">Design</a></h4>
                             <p>Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
                         </div>
                     </div> <!-- single service -->
@@ -351,11 +323,6 @@
                         </ul>
                     </div> <!-- section title -->
                 </div>
-                {{-- <div class="col-sm-3">
-                    <div class="project_btn text-sm-right">
-                        <a class="main-btn main-btn-2" href="#">All Works</a>
-                    </div> <!-- section title -->
-                </div> --}}
             </div> <!-- row -->
             <div class="row project_active">
                 <div class="col-lg-4">
@@ -432,102 +399,7 @@
 
     <!--====== PRICING PART START ======-->
 
-    <section id="pricing" class="pricing_area gray-bg pt-115 pb-120">
-        <div class="pricing_shape">
-            <img src="assets/images/shape-3.png" alt="shape">
-        </div> <!-- row -->
-
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section_title text-center pb-30">
-                        <h5 class="sub_title">Pricing</h5>
-                        <h3 class="main_title">Pricing Plans</h3>
-                        <ul class="line">
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                    </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-7 col-sm-8">
-                    <div class="single_price mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.2s">
-                        <div class="price_header">
-                            <h4 class="price_title">Basic</h4>
-                            {{-- <span class="price">$75</span> --}}
-                            <p>Only PSD Service</p>
-                        </div>
-                        <div class="price_body">
-                            <ul>
-                                <li><i class="lni lni-checkmark"></i> Graphic Design</li>
-                                <li><i class="lni lni-checkmark"></i> Web Design</li>
-                                <li><i class="lni lni-close"></i> UI/UX</li>
-                                <li><i class="lni lni-close"></i> HTML/CSS</li>
-                                <li><i class="lni lni-close"></i> SEO Marketing</li>
-                                <li><i class="lni lni-close"></i> Business Analysis</li>
-                            </ul>
-                        </div>
-                        <div class="price_btn">
-                            <a href="#" class="main-btn main-btn-2">Choose Plan</a>
-                        </div>
-                    </div> <!-- single price -->
-                </div>
-                <div class="col-lg-4 col-md-7 col-sm-8">
-                    <div class="single_price mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.5s">
-                        <span class="sticker">Best Value</span>
-                        <div class="price_header">
-                            <h4 class="price_title">Standard</h4>
-                            {{-- <span class="price">$250</span> --}}
-                            <p>Complete Service</p>
-                        </div>
-                        <div class="price_body">
-                            <ul>
-                                <li><i class="lni lni-checkmark"></i> Graphic Design</li>
-                                <li><i class="lni lni-checkmark"></i> Web Design</li>
-                                <li><i class="lni lni-checkmark"></i> UI/UX</li>
-                                <li><i class="lni lni-checkmark"></i> HTML/CSS</li>
-                                <li><i class="lni lni-close"></i> SEO Marketing</li>
-                                <li><i class="lni lni-close"></i> Business Analysis</li>
-                            </ul>
-                        </div>
-                        <div class="price_btn">
-                            <a href="#" class="main-btn">Choose Plan</a>
-                        </div>
-                    </div> <!-- single price -->
-                </div>
-                <div class="col-lg-4 col-md-7 col-sm-8">
-                    <div class="single_price mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.8s">
-                        <div class="price_header">
-                            <h4 class="price_title">Premium</h4>
-                            {{-- <span class="price">$350</span> --}}
-                            <p>Complete Service</p>
-                        </div>
-                        <div class="price_body">
-                            <ul>
-                                <li><i class="lni lni-checkmark"></i> Graphic Design</li>
-                                <li><i class="lni lni-checkmark"></i> Web Design</li>
-                                <li><i class="lni lni-checkmark"></i> UI/UX</li>
-                                <li><i class="lni lni-checkmark"></i> HTML/CSS</li>
-                                <li><i class="lni lni-checkmark"></i> SEO Marketing</li>
-                                <li><i class="lni lni-checkmark"></i> Business Analysis</li>
-                            </ul>
-                        </div>
-                        <div class="price_btn">
-                            <a href="#" class="main-btn main-btn-2">Choose Plan</a>
-                        </div>
-                    </div> <!-- single price -->
-                </div>
-            </div>  <!-- row -->
-        </div> <!-- container -->
-    </section>
-
-    <!--====== PRICING PART ENDS ======-->
-
-    <!--====== TESTIMONIAL PART START ======-->
-
-    <section id="testimonial" class="testimonial_area pt-115 pb-120">
+    <section id="testimonial" class="testimonial_area gray-bg pt-115 pb-120">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -608,7 +480,7 @@
 
     <!--====== COUNTER PART START ======-->
 
-    <section id="counter" class="counter_area gray-bg pt-70 pb-120">
+    <section id="counter" class="counter_area pt-70 pb-120">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
@@ -663,7 +535,7 @@
 
     <!--====== WORK EXPERIENCE PART START ======-->
 
-    <section id="work" class="work_experience_area pt-115">
+    <section id="work" class="work_experience_area gray-bg pt-115">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -734,7 +606,7 @@
         </div> <!-- container -->
     </section>
 
-    <section id="contact" class="call_to_action_area">
+    <section id="contact" class="call_to_action_area gray-bg">
         <div class="container">
             <div class="call_to_action_wrapper wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.5s">
                 <div class="row">
@@ -764,7 +636,7 @@
 
     <!--====== FOOTER PART START ======-->
 
-    <footer id="footer" class="footer_area gray-bg pt-115 pb-120">
+    <footer id="footer" class="footer_area pt-115 pb-120">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
