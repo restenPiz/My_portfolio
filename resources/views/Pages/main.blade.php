@@ -127,7 +127,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-7">
                         <div class="header_hero_image mt-50 wow fadeInRightBig" data-wow-duration="1.3s" data-wow-delay="1.8s">
-                            <img src="assets/images/hero.png" alt="hero">
+                            <img src="assets/images/mauro_peniel-back.png" alt="hero">
                         </div> <!-- header hero image -->
                     </div>
                 </div> <!-- row -->
@@ -145,7 +145,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-9">
                     <div class="about_image mt-50 wow fadeInRightBig" data-wow-duration="1.3s" data-wow-delay="0.5s">
-                        <img src="assets/images/about_hero.png" alt="Hero">
+                        <img src="assets/images/mauro_peniel-back1.png" alt="Hero">
                         <div class="about_shape"></div>
                     </div> <!-- about image -->
                 </div>
@@ -736,7 +736,7 @@
                             <li><a href="#"><i class="lni lni-instagram"></i></a></li>
                             <li><a href="#"><i class="lni lni-linkedin"></i></a></li>
                         </ul>
-                        <span class="email"><a href="https://preview.uideck.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="94e7fbf9f1fbfaf1d4f1ecf5f9e4f8f1baf7fbf9">[email&#160;protected]</a></span>
+                        <span class="email"><a href="https://preview.uideck.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="94e7fbf9f1fbfaf1d4f1ecf5f9e4f8f1baf7fbf9">mauropeniel7@gmail.com</a></span>
                         <ul class="footer_menu">
                             <li><a href="#">Home</a></li>
                             <li><a href="#">About Us</a></li>
@@ -745,7 +745,7 @@
                             <li><a href="#">Pricing</a></li>
                             <li><a href="#">Contact Us</a></li>
                         </ul>
-                        <p class="credit pt-45">Template Designed and Developed by <a href="https://uideck.com/" rel="nofollow">UIdeck</a></p>
+                        <p class="credit pt-45">Designed and Developed by <a href="https://uideck.com/" rel="nofollow">Mauro Peniel</a></p>
                     </div> <!-- footer content -->
                 </div>
             </div>  <!-- row -->
