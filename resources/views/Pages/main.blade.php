@@ -330,11 +330,11 @@
                         </ul>
                     </div> <!-- section title -->
                 </div>
-                <div class="col-sm-3">
+                {{-- <div class="col-sm-3">
                     <div class="project_btn text-sm-right">
                         <a class="main-btn main-btn-2" href="#">All Works</a>
                     </div> <!-- section title -->
-                </div>
+                </div> --}}
             </div> <!-- row -->
             <div class="row project_active">
                 <div class="col-lg-4">
