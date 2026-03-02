@@ -412,7 +412,7 @@
                     <div class="single_price mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.2s">
                         <div class="price_header">
                             <h4 class="price_title">Basic</h4>
-                            <span class="price">$75</span>
+                            {{-- <span class="price">$75</span> --}}
                             <p>Only PSD Service</p>
                         </div>
                         <div class="price_body">
@@ -435,7 +435,7 @@
                         <span class="sticker">Best Value</span>
                         <div class="price_header">
                             <h4 class="price_title">Standard</h4>
-                            <span class="price">$250</span>
+                            {{-- <span class="price">$250</span> --}}
                             <p>Complete Service</p>
                         </div>
                         <div class="price_body">
@@ -457,7 +457,7 @@
                     <div class="single_price mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.8s">
                         <div class="price_header">
                             <h4 class="price_title">Premium</h4>
-                            <span class="price">$350</span>
+                            {{-- <span class="price">$350</span> --}}
                             <p>Complete Service</p>
                         </div>
                         <div class="price_body">
@@ -689,10 +689,6 @@
             </div>  <!-- work experience -->
         </div> <!-- container -->
     </section>
-
-    <!--====== WORK EXPERIENCE  PART ENDS ======-->
-
-    <!--====== CALL TO ACTION PART START ======-->
 
     <section id="contact" class="call_to_action_area">
         <div class="container">
