@@ -340,45 +340,68 @@
                 <div class="col-lg-4">
                     <div class="single_project">
                         <div class="project_image">
-                            <img src="assets/images/project-3.jpg" alt="project">
+                            <img style="height: 15.5rem" src="assets/images/admin-Principal.JPG" alt="project">
                         </div>
                         <div class="project_content">
-                            <h4 class="project_title"><a href="#">Creative Agency Landing page</a></h4>
-                            <p>UI/UX Design</p>
+                            <h4 class="project_title"><a href="#">Church Management System</a></h4>
+                            <p>UI/UX Design e Development</p>
                         </div>
-                    </div> <!-- single project -->
+                    </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="single_project ">
+                    <div class="single_project">
                         <div class="project_image">
-                            <img src="assets/images/project-1.jpg" alt="project">
+                            <img style="height: 15.5rem" src="assets/images/School1.png" alt="project">
                         </div>
                         <div class="project_content">
-                            <h4 class="project_title"><a href="#">App Landing Page</a></h4>
-                            <p>Web Design</p>
+                            <h4 class="project_title"><a href="#">School Management System</a></h4>
+                            <p>UI/UX Design e Development</p>
                         </div>
                     </div> <!-- single project -->
                 </div>
                 <div class="col-lg-4">
                     <div class="single_project">
                         <div class="project_image">
-                            <img src="assets/images/project-2.jpg" alt="project">
+                            <img style="height: 15.5rem" src="assets/images/Saude1.jfif" alt="project">
                         </div>
-                        <div class="project_content"><h4>Search Engine Optimization</a></h4>
-                            <p>Digital Marketing</p>
+                        <div class="project_content">
+                            <h4 class="project_title"><a href="#">SaudeClick App</a></h4>
+                            <p>UI/UX Design e Development</p>
                         </div>
                     </div> <!-- single project -->
                 </div>
                 <div class="col-lg-4">
                     <div class="single_project">
                         <div class="project_image">
-                            <img src="assets/images/project-1.jpg" alt="project">
+                            <img style="" src="assets/images/Power1.png" alt="project">
                         </div>
                         <div class="project_content">
-                            <h4 class="project_title"><a href="#">HTML/CSS Coding</a></h4>
-                            <p>Front-end Development</p>
+                            <h4 class="project_title"><a href="#">PowerSense App</a></h4>
+                            <p>UI/UX Design e Development</p>
                         </div>
                     </div> <!-- single project -->
+                </div>
+                <div class="col-lg-4">
+                    <div class="single_project">
+                        <div class="project_image">
+                            <img src="assets/images/Truck1.jpg" alt="project">
+                        </div>
+                        <div class="project_content">
+                            <h4 class="project_title"><a href="#">Car Management</a></h4>
+                            <p>UI/UX Design e Development</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="single_project">
+                        <div class="project_image">
+                            <img src="assets/images/Agric1.jpg" alt="project">
+                        </div>
+                        <div class="project_content">
+                            <h4 class="project_title"><a href="#">AgriConnect</a></h4>
+                            <p>UI/UX Design e Development</p>
+                        </div>
+                    </div>
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
