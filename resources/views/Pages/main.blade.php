@@ -105,11 +105,11 @@
                             </div> <!-- navbar collapse -->
                             <div class="navbar-controls">
                                 <!-- Dark Mode Toggle -->
-                                <button id="darkModeToggle" class="dark-mode-toggle" title="Toggle Dark Mode"></button>
+                                <button style="color:white;background-color:white;border:1px solid white" id="darkModeToggle" class="dark-mode-toggle" title="Toggle Dark Mode"></button>
 
                                 <!-- Language Selector -->
                                 <div class="lang-selector">
-                                    <button class="lang-btn" id="langBtn">
+                                    <button  style="color:black;background-color:white;border:1px solid white" class="lang-btn" id="langBtn">
                                         🌐 <span class="lang-label">PT</span> ▾
                                     </button>
                                     <div class="lang-dropdown" id="langDropdown">
