@@ -33,6 +33,8 @@
     <!--====== Style CSS ======-->
     <link rel="stylesheet" href="assets/css/style.css">
 
+    <link rel="stylesheet" href="assets/css/darkmode.css">
+
 </head>
 
 <body>
@@ -101,6 +103,25 @@
                                     </li>
                                 </ul>
                             </div> <!-- navbar collapse -->
+                            <div class="navbar-controls">
+                                <!-- Dark Mode Toggle -->
+                                <button id="darkModeToggle" class="dark-mode-toggle" title="Toggle Dark Mode"></button>
+
+                                <!-- Language Selector -->
+                                <div class="lang-selector">
+                                    <button class="lang-btn" id="langBtn">
+                                        🌐 <span class="lang-label">PT</span> ▾
+                                    </button>
+                                    <div class="lang-dropdown" id="langDropdown">
+                                        <a href="#" data-lang="pt" class="active">
+                                            <span class="lang-flag">🇲🇿</span> Português
+                                        </a>
+                                        <a href="#" data-lang="en">
+                                            <span class="lang-flag">🇬🇧</span> English
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                         </nav> <!-- navbar -->
                     </div>
                 </div> <!-- row -->
@@ -772,6 +793,10 @@
     </footer>
 
     <!--====== Jquery js ======-->
+
+    <script src="assets/js/darkmode-lang.js"></script>
+
+
     <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
     <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
 
