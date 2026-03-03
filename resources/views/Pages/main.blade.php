@@ -73,7 +73,7 @@
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="index-2.html">
-                                <img src="assets/images/mp.png"  style="height:5rem; width: 7rem" alt="Logo">
+                                <img src="assets/images/mp.png"  style="height:4rem; width: 5rem" alt="Logo">
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
