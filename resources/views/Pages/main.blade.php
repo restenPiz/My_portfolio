@@ -73,7 +73,7 @@
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="index-2.html">
-                                <img src="assets/images/logo.svg" alt="Logo">
+                                <img src="assets/images/mp.png"  style="height:5rem; width: 7rem" alt="Logo">
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
@@ -94,9 +94,6 @@
                                     </li>
                                     <li class="nav-item">
                                         <a class="page-scroll" href="#project">Portfolio<span></span></a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="page-scroll" href="#pricing">Pricing<span></span></a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="page-scroll" href="#work">Experience<span></span></a>
@@ -129,11 +126,11 @@
         </div> <!-- header navbar -->
 
         <div id="home" class="header_hero">
-            <ul class="header_social d-none d-lg-block">
-                <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
-                <li><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
-                <li><a href="#"><i class="lni lni-instagram-filled"></i></a></li>
-                <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+            <ul class="header_social d-none d-lg-block" style="background-color: #eaccad; color:white">
+                <li><a href="#"><i style="color:white" class="lni lni-facebook-filled"></i></a></li>
+                <li><a href="#"><i style="color:white" class="lni lni-twitter-filled"></i></a></li>
+                <li><a href="#"><i style="color:white" class="lni lni-instagram-filled"></i></a></li>
+                <li><a href="#"><i style="color:white" class="lni lni-linkedin-original"></i></a></li>
             </ul>
             <div class="container">
                 <div class="row align-items-center justify-content-center justify-content-lg-between">
