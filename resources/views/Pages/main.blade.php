@@ -136,7 +136,7 @@
                             <h5 class="header_sub_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Hello I'm</h5>
                             <h2 class="header_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Mauro Peniel</h2>
                             <span class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.8s">Software Developer</span>
-                            <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
+                            <p style="text-align: justify" class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
                             <a href="#contact" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.4s">Contact Me</a>
                         </div> <!-- header hero content -->
                     </div>
