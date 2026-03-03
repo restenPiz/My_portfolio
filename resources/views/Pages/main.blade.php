@@ -7,7 +7,7 @@
     <meta charset="utf-8">
 
     <!--====== Title ======-->
-    <title>Mauro Peniel</title>
+    <title>Mauro Peniel - Portfolio</title>
 
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -140,7 +140,7 @@
                             <h2 class="header_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Mauro Peniel</h2>
                             <span class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.8s">Full Stack Developer</span>
                             <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
-                            <a href="#contact" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.4s">Hire Me</a>
+                            <a href="#contact" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.4s">Contact Me</a>
                         </div> <!-- header hero content -->
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-7">
@@ -171,7 +171,7 @@
                     <div class="about_content mt-45 wow fadeInLeftBig" data-wow-duration="1.3s" data-wow-delay="0.5s">
                         <div class="section_title">
                             <h5 class="sub_title">About</h5>
-                            <h3 class="main_title">Why You Hire Me?</h3>
+                            <h3 class="main_title">Why You Contact Me?</h3>
                             <ul class="line">
                                 <li></li>
                                 <li></li>
