@@ -182,60 +182,6 @@
                         serving thousands of users. Strong background in API architecture, database design, and system
                         administration, with a proven ability to translate complex requirements into scalable, user-centric solutions.</p>
 
-                        {{-- <div class="about_skills pt-15">
-                            <div class="skill_item mt-20">
-                                <div class="skill_header">
-                                    <h6 class="skill_title">UI/UX Design</h6>
-                                    <div class="skill_percentage">
-                                        <p><span class="counter">85</span>%</p>
-                                    </div>
-                                </div>
-                                <div class="skill_bar">
-                                    <div class="bar_inner">
-                                        <div class="bar progress_line" data-width="85"></div>
-                                    </div>
-                                </div>
-                            </div> <!-- skill item -->
-                            <div class="skill_item mt-20">
-                                <div class="skill_header">
-                                    <h6 class="skill_title">Web Design</h6>
-                                    <div class="skill_percentage">
-                                        <p><span class="counter">75</span>%</p>
-                                    </div>
-                                </div>
-                                <div class="skill_bar">
-                                    <div class="bar_inner">
-                                        <div class="bar progress_line" data-width="75"></div>
-                                    </div>
-                                </div>
-                            </div> <!-- skill item -->
-                            <div class="skill_item mt-20">
-                                <div class="skill_header">
-                                    <h6 class="skill_title">HTML/CSS</h6>
-                                    <div class="skill_percentage">
-                                        <p><span class="counter">90</span>%</p>
-                                    </div>
-                                </div>
-                                <div class="skill_bar">
-                                    <div class="bar_inner">
-                                        <div class="bar progress_line" data-width="90"></div>
-                                    </div>
-                                </div>
-                            </div> <!-- skill item -->
-                            <div class="skill_item mt-20">
-                                <div class="skill_header">
-                                    <h6 class="skill_title">Sketch</h6>
-                                    <div class="skill_percentage">
-                                        <p><span class="counter">65</span>%</p>
-                                    </div>
-                                </div>
-                                <div class="skill_bar">
-                                    <div class="bar_inner">
-                                        <div class="bar progress_line" data-width="65"></div>
-                                    </div>
-                                </div>
-                            </div> <!-- skill item -->
-                        </div> <!-- about skill --> --}}
                     </div> <!-- about content -->
                 </div>
             </div> <!-- row -->
@@ -269,7 +215,7 @@
                         </div>
                         <div class="service_content">
                             <h4 class="service_title"><a href="#">Data Analysis</a></h4>
-                            <p>Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
+                            <p style="text-align: justify">Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
                         </div>
                     </div> <!-- single service -->
                 </div>
@@ -280,7 +226,7 @@
                         </div>
                         <div class="service_content">
                             <h4 class="service_title"><a href="#">Software Development</a></h4>
-                            <p>Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
+                            <p style="text-align: justify">Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
                         </div>
                     </div> <!-- single service -->
                 </div>
@@ -291,7 +237,7 @@
                         </div>
                         <div class="service_content">
                             <h4 class="service_title"><a href="#">Design</a></h4>
-                            <p>Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
+                            <p style="text-align: justify">Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.</p>
                         </div>
                     </div> <!-- single service -->
                 </div>
@@ -417,7 +363,7 @@
                         <div class="testimonial_content media-body">
                             <h4 class="author_name">Rob Hope</h4>
                             <span class="sub_title">CEO, OnePageLove</span>
-                            <p>Lorem ipsum dolor sit amet, consetetuad ipscing elitr, sed diam nonumy eirmodem por invidunt ut labore et dolore magna aliquyam erat sed diam.</p>
+                            <p style="text-align: justify">Lorem ipsum dolor sit amet, consetetuad ipscing elitr, sed diam nonumy eirmodem por invidunt ut labore et dolore magna aliquyam erat sed diam.</p>
                             <ul class="review">
                                 <li><i class="lni lni-star-filled"></i></li>
                                 <li><i class="lni lni-star-filled"></i></li>
@@ -436,7 +382,7 @@
                         <div class="testimonial_content media-body">
                             <h4 class="author_name">Elon Musk</h4>
                             <span class="sub_title">Founder, Tesla</span>
-                            <p>Lorem ipsum dolor sit amet, consetetuad ipscing elitr, sed diam nonumy eirmodem por invidunt ut labore et dolore magna aliquyam erat sed diam.</p>
+                            <p style="text-align: justify">Lorem ipsum dolor sit amet, consetetuad ipscing elitr, sed diam nonumy eirmodem por invidunt ut labore et dolore magna aliquyam erat sed diam.</p>
                             <ul class="review">
                                 <li><i class="lni lni-star-filled"></i></li>
                                 <li><i class="lni lni-star-filled"></i></li>
@@ -455,7 +401,7 @@
                         <div class="testimonial_content media-body">
                             <h4 class="author_name">Musharof Chowdhury</h4>
                             <span class="sub_title">Head of Ideas, UIdeck</span>
-                            <p>Lorem ipsum dolor sit amet, consetetuad ipscing elitr, sed diam nonumy eirmodem por invidunt ut labore et dolore magna aliquyam erat sed diam.</p>
+                            <p style="text-align: justify">Lorem ipsum dolor sit amet, consetetuad ipscing elitr, sed diam nonumy eirmodem por invidunt ut labore et dolore magna aliquyam erat sed diam.</p>
                             <ul class="review">
                                 <li><i class="lni lni-star-filled"></i></li>
                                 <li><i class="lni lni-star-filled"></i></li>
@@ -557,7 +503,7 @@
                                 <span>01</span>
                             </div>
                             <div class="experience_content order-first">
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sedia magnaliquya ratsed diam Lorem ipsum dolor sit amconsetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam.Lorem ipsum dolor sit ametconsete tur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diamLorem ipsum dolor consetetur sadipscing elitr sed diam nonumy diam... </p>
+                                <p style="text-align: justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr sedia magnaliquya ratsed diam Lorem ipsum dolor sit amconsetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam.Lorem ipsum dolor sit ametconsete tur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diamLorem ipsum dolor consetetur sadipscing elitr sed diam nonumy diam... </p>
                             </div>
                         </div> <!-- single experience -->
                     </div>
@@ -574,7 +520,7 @@
                                 <span>02</span>
                             </div>
                             <div class="experience_content">
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sedia magnaliquya ratsed diam Lorem ipsum dolor sit amconsetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam.Lorem ipsum dolor sit ametconsete tur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diamLorem ipsum dolor consetetur sadipscing elitr sed diam nonumy diam... </p>
+                                <p style="text-align: justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr sedia magnaliquya ratsed diam Lorem ipsum dolor sit amconsetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam.Lorem ipsum dolor sit ametconsete tur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diamLorem ipsum dolor consetetur sadipscing elitr sed diam nonumy diam... </p>
                             </div>
                         </div> <!-- single experience -->
                     </div>
@@ -591,7 +537,7 @@
                                 <span>03</span>
                             </div>
                             <div class="experience_content order-first">
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sedia magnaliquya ratsed diam Lorem ipsum dolor sit amconsetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam.Lorem ipsum dolor sit ametconsete tur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diamLorem ipsum dolor consetetur sadipscing elitr sed diam nonumy diam... </p>
+                                <p style="text-align: justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr sedia magnaliquya ratsed diam Lorem ipsum dolor sit amconsetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam.Lorem ipsum dolor sit ametconsete tur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diamLorem ipsum dolor consetetur sadipscing elitr sed diam nonumy diam... </p>
                             </div>
                         </div> <!-- single experience -->
                     </div>
