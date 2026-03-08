@@ -245,10 +245,6 @@
         </div> <!-- container -->
     </section>
 
-    <!--====== SERVICES PART ENDS ======-->
-
-    <!--====== PROJECT PART START ======-->
-
     <section id="project" class="project_area pt-125">
         <div class="container">
             <div class="row">
