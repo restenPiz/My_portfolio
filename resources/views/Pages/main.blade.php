@@ -368,7 +368,7 @@ footer span{color:var(--accent)}
             </h1>
 
             <p class="hero-sub">
-                Full Stack Developer com 4+ anos de experiência a construir soluções web e mobile modernas, rápidas e
+                Full Stack Developer com 5+ anos de experiência a construir soluções web e mobile modernas, rápidas e
                 escaláveis.
             </p>
 
@@ -383,7 +383,7 @@ footer span{color:var(--accent)}
                     <div class="stat-label">Apps</div>
                 </div>
                 <div>
-                    <div class="stat-num">4<span>+</span></div>
+                    <div class="stat-num">5<span>+</span></div>
                     <div class="stat-label">Anos</div>
                 </div>
                 <div>
@@ -510,10 +510,10 @@ footer span{color:var(--accent)}
         <div class="project-links"><a href="https://github.com/restenPiz/Face_recognition-Python" target="_blank" class="project-link">🐙 GitHub</a></div>
       </div>
       <div class="project-card reveal">
-        <div class="project-icon">📄</div><div class="project-name">EliteDoc</div>
-        <div class="project-desc" data-i18n="proj.p6">Sistema de gestão documental com capacidades avançadas de pesquisa, arquitetura modular e controlo de versões.</div>
-        <div class="project-stack"><span class="stack-tag">Laravel</span><span class="stack-tag">React.js</span><span class="stack-tag">Tailwind CSS</span></div>
-        <div class="project-links"><a class="project-link soon" data-i18n="proj.soon">🔒 Em breve</a></div>
+        <div class="project-icon">📱</div><div class="project-name">PowerSense</div>
+        <div class="project-desc" data-i18n="proj.p6">Aplicativo movel criado com o intuito de garantir o controle de energia sem precisar de usar o contador analogico</div>
+        <div class="project-stack"><span class="stack-tag">Laravel</span><span class="stack-tag">Flutter</span><span class="stack-tag">Firebase</span></div>
+          <div class="project-links"><a href="https://github.com/restenPiz/PowerSense/tree/main/powersense" target="_blank" class="project-link">🐙 GitHub</a></div>
       </div>
     </div>
   </div>
@@ -529,20 +529,20 @@ footer span{color:var(--accent)}
       <div class="testi-card reveal">
         <div class="stars">★★★★★</div>
         <div class="testi-quote" data-i18n="testi.q1">O Mauro entregou um sistema de gestão de qualidade excepcional, dentro do prazo e com atenção aos detalhes que superou as nossas expectativas. Altamente recomendado!</div>
-        <div class="testi-author"><div class="testi-avatar">JM</div><div><div class="testi-name">João Machava</div><div class="testi-role" data-i18n="testi.r1">Diretor, EliteTec Lda</div></div></div>
+        <div class="testi-author"><div class="testi-avatar">CJ</div><div><div class="testi-name">Celso Julio</div><div class="testi-role" data-i18n="testi.r1">CEO, EliteTec Lda</div></div></div>
       </div>
       <div class="testi-card reveal">
         <div class="stars">★★★★★</div>
         <div class="testi-quote" data-i18n="testi.q2">Trabalhar com o Mauro foi uma experiência excelente. A aplicação SaudeClick transformou completamente a forma como os nossos clientes acedem a medicamentos.</div>
-        <div class="testi-author"><div class="testi-avatar">SC</div><div><div class="testi-name">Sara Cossa</div><div class="testi-role" data-i18n="testi.r2">CEO, SaudeClick</div></div></div>
+        <div class="testi-author"><div class="testi-avatar">AM</div><div><div class="testi-name">Assunção Miguel</div><div class="testi-role" data-i18n="testi.r2">CEO, SaudeClick</div></div></div>
       </div>
       <div class="testi-card reveal">
         <div class="stars">★★★★★</div>
         <div class="testi-quote" data-i18n="testi.q3">A solução de dados implementada pelo Mauro melhorou significativamente a nossa capacidade de monitorar indicadores de saúde. Profissional e dedicado.</div>
-        <div class="testi-author"><div class="testi-avatar">PA</div><div><div class="testi-name">Pedro Abreu</div><div class="testi-role" data-i18n="testi.r3">Coordenador, Kubatsirana</div></div></div>
+        <div class="testi-author"><div class="testi-avatar">ET</div><div><div class="testi-name">Ernesto Tuia</div><div class="testi-role" data-i18n="testi.r3">Director Executivo, Kubatsirana</div></div></div>
       </div>
     </div>
-    <div class="testi-note" data-i18n="testi.note">💡 Estes são testemunhos placeholder — substitui pelos reais quando tiveres, basta enviar-me os textos!</div>
+    {{-- <div class="testi-note" data-i18n="testi.note">💡 Estes são testemunhos placeholder — substitui pelos reais quando tiveres, basta enviar-me os textos!</div> --}}
   </div>
 </section>
 
@@ -591,10 +591,10 @@ footer span{color:var(--accent)}
         <h2 class="section-title" data-i18n="contact.title">Vamos <em>Trabalhar</em> Juntos</h2>
         <div class="divider"></div>
         <p class="section-desc" style="margin-bottom:1.5rem" data-i18n="contact.desc">Tem um projeto em mente? Estou disponível para freelance e oportunidades full-time.</p>
-        <a href="mailto:mauropeniel7@gmail.com" class="contact-item"><div class="contact-item-icon">✉️</div><div><div class="contact-item-label">Email</div><div class="contact-item-value">mauropeniel7@gmail.com</div></div></a>
+        <a href="mailto:mauropeniel7@gmail.com" class="contact-item"><div class="contact-item-icon">✉️</div><div><div class="contact-item-label">Email</div><div class="contact-item-value">info@mauropeniel.site</div></div></a>
         <a href="tel:+258867336817" class="contact-item"><div class="contact-item-icon">📱</div><div><div class="contact-item-label" data-i18n="contact.phone">Telefone</div><div class="contact-item-value">+258 867 336 817</div></div></a>
         <a href="https://github.com/restenPiz" target="_blank" class="contact-item"><div class="contact-item-icon">🐙</div><div><div class="contact-item-label">GitHub</div><div class="contact-item-value">github.com/restenPiz</div></div></a>
-        <a href="https://linkedin.com/in/mauro-peniel" target="_blank" class="contact-item"><div class="contact-item-icon">💼</div><div><div class="contact-item-label">LinkedIn</div><div class="contact-item-value">linkedin.com/in/mauro-peniel</div></div></a>
+        <a href="https://linkedin.com/in/mauro-peniel" target="_blank" class="contact-item"><div class="contact-item-icon">💼</div><div><div class="contact-item-label">LinkedIn</div><div class="contact-item-value">mauro peniel</div></div></a>
       </div>
       <div class="contact-cta">
         <div class="cta-emoji">🚀</div>
@@ -613,7 +613,7 @@ footer span{color:var(--accent)}
   <div class="footer-links">
     <a href="https://github.com/restenPiz" target="_blank">GitHub</a>
     <a href="https://linkedin.com/in/mauro-peniel" target="_blank">LinkedIn</a>
-    <a href="mailto:mauropeniel7@gmail.com">Email</a>
+    <a href="mailto:info@mauropeniel.site">Email</a>
   </div>
 </footer>
 
