@@ -1,8 +1,5 @@
 <!doctype html>
 <html class="no-js" lang="en">
-
-
-<!-- Mirrored from preview.uideck.com/items/freelancer/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 02 Mar 2026 14:27:07 GMT -->
 <head>
     <meta charset="utf-8">
 
